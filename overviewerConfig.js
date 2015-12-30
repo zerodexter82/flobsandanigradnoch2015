@@ -10,18 +10,18 @@ var overviewerConfig = {
                 256
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1451471381, 
+            "last_rendertime": 1451517277, 
             "name": "A regular render", 
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
             "bgcolor": "#1a1a1a", 
-            "zoomLevels": 6, 
+            "zoomLevels": 8, 
             "base": "", 
             "imgextension": "png", 
             "defaultZoom": 1, 
             "world": "flobsandani2015", 
-            "maxZoom": 6, 
+            "maxZoom": 8, 
             "path": "render1", 
             "showlocationmarker": true
         }
@@ -60,6 +60,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1451472275"
+        "cacheTag": "1451517712"
     }
 };
