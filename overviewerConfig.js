@@ -10,7 +10,7 @@ var overviewerConfig = {
                 256
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1451517277, 
+            "last_rendertime": 1451654193, 
             "name": "A regular render", 
             "poititle": "Markers", 
             "north_direction": 0, 
@@ -60,6 +60,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1451517712"
+        "cacheTag": "1451654350"
     }
 };
